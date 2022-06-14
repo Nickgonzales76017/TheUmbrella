@@ -17,6 +17,7 @@
     "@strapi/strapi": "4.1.12",
     "@strapi/utils": "^4.1.12",
     "better-sqlite3": "7.4.6",
+    "pg": "^8.7.3",
     "strapi-plugin-comments": "^2.1.6",
     "strapi-plugin-config-sync": "^1.0.1"
   },
